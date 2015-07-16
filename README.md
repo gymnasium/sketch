@@ -4,7 +4,9 @@
 
 ## Introducing Sketch for UX and UI
 
-[Enroll](http://thegymnasium.com/catalog/course/5) in our newest Gym Short and learn how to make mobile prototypes with Sketch. 
+__Launch Date: August 2015!!!__
+
+Learn how to make mobile prototypes with Sketch in our newest Gym Short!
 
 [__Download the lesson files here.__](https://github.com/gymnasium/sketch-for-UX-and-UI/releases/download/v1.0/lesson_files_ux_ui_gymshort.zip)
 
