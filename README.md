@@ -1,14 +1,14 @@
-[![Gymnasium Logo](https://cdn.rawgit.com/gymnasium/gymnasium.github.io/master/assets/GYM-logo.svg)](http://thegymnasium.com)
+[![Gymnasium Logo](https://gymnasium.github.io/cms/img/gymnasium-logo-gray.svg)](http://thegymnasium.com)
 
 # Sketch Resources
 
 ## Introducing Sketch for UX and UI
 
-**UPDATED — December 8, 2016!!!**
+**UPDATED — October, 2018!!!**
 
 Learn how to make mobile prototypes with Sketch in our updated [Gym Short](https://thegymnasium.com/courses/GYM/005/0/about)!
 
-[**Download the lesson files here.**](http://gymnasium.github.io/GYM-005/Lesson_Files/SKH_All_Assets.zip)
+[**Download the lesson files here.**](http://gymnasium.github.io/GYM-005/Lesson_Files/SKH_All_Course_Assets.zip)
 
 ---
 
